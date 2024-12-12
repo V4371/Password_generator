@@ -3,7 +3,7 @@ This is a password generator with the ability to select the length of the genera
 JavaFX library was used to create the interface.
 
 ##Versions
-JavaFX 23.0.1
-JDK Amazon Correto 23.0.1
-Gradle 8.1.1
-shadowJAR 8.1.1
+*JavaFX 23.0.1
+*JDK Amazon Correto 23.0.1
+*Gradle 8.1.1
+*shadowJAR 8.1.1
