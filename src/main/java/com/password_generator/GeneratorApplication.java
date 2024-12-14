@@ -23,7 +23,7 @@ public class GeneratorApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(GeneratorApplication.class.getResource("generator-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 370, 240);
-        stage.setTitle("Генератор пароля");
+        stage.setTitle("Password generator");
         stage.setResizable(false);
         stage.setScene(scene);
         stage.show();
