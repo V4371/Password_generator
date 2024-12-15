@@ -1,6 +1,6 @@
 # Password generator
 This is a password generator with the ability to select the length of the generated password and the characters used. The program is developed in Java, Gradle was used for assembly.
-JavaFX library was used to create the interface.
+JavaFX library was used to create the interface. The functionality of the application was tested only on Windows 10
 
 ## Versions
 * JavaFX 23.0.1
